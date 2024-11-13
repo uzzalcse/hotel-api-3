@@ -1,0 +1,49 @@
+{
+  "id": "hotel-8a3acead-efaf-4ae9-aee6-69f03e4b3ccf",
+  "slug": "hotel-le-meridien-bd",
+  "images": [],
+  "title": "hotel le meridien bd",
+  "description": "random description",
+  "guestCount": 4,
+  "bedroomCount": 2,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "spa",
+    "beach access",
+    "room service"
+  ],
+  "host": {
+    "name": "John Smith",
+    "email": "john.smith@resort.com"
+  },
+  "address": "123 Ocean Drive, Miami Beach, FL 33139",
+  "location": {
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  "rooms": [
+    {
+      "hotelSlug": "hotel-le-meridien-bd",
+      "roomSlug": "ocean-view-suite",
+      "roomImage": "",
+      "roomTitle": "Ocean View Suite",
+      "bedroomCount": 1
+    },
+    {
+      "hotelSlug": "hotel-le-meridien-bd",
+      "roomSlug": "hell-here-don't-move-at-inch",
+      "roomImage": "",
+      "roomTitle": "hell here don't move at inch",
+      "bedroomCount": 2
+    },
+    {
+      "hotelSlug": "hotel-le-meridien-bd",
+      "roomSlug": "this-is-new-modificaion",
+      "roomImage": "",
+      "roomTitle": "this is new modificaion",
+      "bedroomCount": 2
+    }
+  ]
+}
